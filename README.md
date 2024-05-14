@@ -1,4 +1,4 @@
 # Product Landing Page
 
-This i one of the required projects to earn my Responsive Web Design certification by freeCodeCamp.
-For this project, I built a product landing page to market a product of my choice.
+This is the boilerplate for the Product Landing Page project. Instructions for building your project can be found at 
+https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-product-landing-page-project/build-a-product-landing-page
